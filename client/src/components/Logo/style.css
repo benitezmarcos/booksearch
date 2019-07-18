@@ -1,0 +1,14 @@
+.logo-position{
+    align-self: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bookImg{
+    max-width:100%;
+    height:auto;
+}

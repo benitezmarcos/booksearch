@@ -1,0 +1,11 @@
+.nav-item{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-self: center;
+}
+.btn{
+    align-content: center;
+    justify-content: center;
+    position: static;
+}
